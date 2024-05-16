@@ -1,18 +1,6 @@
-# Middlemarch
-[![Node.js CI](https://github.com/beatfactor/middlemarch/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/beatfactor/middlemarch/actions/workflows/node.js.yml)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/16d2bbe4-6931-4e83-9fe5-6fd6e1688f2d/deploy-status)](https://app.netlify.com/sites/middlemarch/deploys)
+# NovelNest
 
-Sample bookstore single page application built with Vue 3 + Pinia and running on Vite. Routing is implementated with Vue Router. 
+Пример одностраничного приложения для книжного магазина, созданного с помощью Vue 3 + Pinia и работающего на Vite. Маршрутизация реализована с помощью Vue Router.
 
-Component testing and End-to-end testing written in Nightwatch.js
+![image](https://github.com/M-1liya/LabWeb4/assets/114402298/c1b2ec0d-7a6c-413b-beca-a9d9cc92155d)
 
-Full tutorial with step-by-step instructions available at:
-
-[labs.pineview.io/learn-how-to-build-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia/](https://labs.pineview.io/learn-how-to-build-test-and-deploy-a-single-page-app-with-vue-3-vite-and-pinia/)
-
-### Preview
-This project is automatically deployed to Netlify at the url:
-
-https://middlemarch.netlify.app/
-
-![Screenshot 2022-02-04 at 17 42 13](https://user-images.githubusercontent.com/419506/152567821-ebc2073d-2759-412f-8e55-fcb1261d6c6c.png)
