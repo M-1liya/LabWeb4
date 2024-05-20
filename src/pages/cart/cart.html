@@ -28,11 +28,11 @@
                 <h6 class="my-0">Промокод</h6>
                 <small>{{promo.code}}</small>
               </div>
-              <span class="text-success">−{{currency.symbol}}{{promo.value}}</span>
+              <span class="text-success">−{{promo.value}}{{currency.symbol}}</span>
             </li>
             <li class="list-group-item d-flex justify-content-between">
               <span>Итого ({{currency.name}})</span>
-              <strong>{{currency.symbol}}{{total}}</strong>
+              <strong>{{total}}{{currency.symbol}}</strong>
             </li>
           </ul>
 
